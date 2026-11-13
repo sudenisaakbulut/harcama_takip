@@ -5,8 +5,11 @@ Günlük gelir ve giderlerimi pratik bir şekilde kaydedip toplam bakiyemi anlı
 Arayüzde toplam bakiye, toplam gelir ve toplam gider kartları yer alıyor. Sayfa yenilendiğinde verilerin kaybolmaması için tarayıcı/cihaz hafızasını kullanıyor.
 
 ## Ekran Görüntüsü
+<img width="200"  alt="WhatsApp Image 2026-11-13 at 13 52 53" src="https://github.com/user-attachments/assets/9f0b719e-7cd1-4315-98f1-aed62593e8e3" /><img width="200"  alt="WhatsApp Image 2026-11-13 at 13 52 53 (1)" src="https://github.com/user-attachments/assets/ced86560-79f4-4df5-a645-e53bb22ce060" />
+<img width="200" alt="WhatsApp Image 2026-11-13 at 13 52 53 (2)" src="https://github.com/user-attachments/assets/54bca33d-4540-4179-a146-1f1c07455766" />
+<img width="200" alt="WhatsApp Image 2026-11-13 at 13 52 53 (3)" src="https://github.com/user-attachments/assets/564355c4-f72d-4e00-8166-468ba7847763" />
 
-![Uygulama Ekranı](screenshot.png)
+
 
 ## Neler Kullandım?
 
