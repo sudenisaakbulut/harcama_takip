@@ -28,4 +28,4 @@ Arayüzde toplam bakiye, toplam gelir ve toplam gider kartları yer alıyor. Say
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/sudenisaakbulut/harcama_takip.git](https://github.com/sudenisaakbulut/harcama_takip.git)
+   git clone https://github.com/sudenisaakbulut/harcama_takip.git
